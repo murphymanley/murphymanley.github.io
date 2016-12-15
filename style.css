@@ -88,8 +88,9 @@ hr{
 
 }
 .boxtext{
+  font-family: 'Cantarell';
   color: #00001a;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 body {
