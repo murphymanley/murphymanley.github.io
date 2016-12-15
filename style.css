@@ -23,11 +23,28 @@
     line-height: 25px;
 }
 .f1small {
+  font-family: 'Josefin Sans', sans-serif;
+  /*font-family: 'EB Garamond', serif;*/
+  color: #ffffcc;
+  letter-spacing: 5px;
+}
+.f12 {
     font-family: 'Josefin Sans', sans-serif;
     /*font-family: 'EB Garamond', serif;*/
     color: #ffffcc;
-    letter-spacing: 5px;
+    letter-spacing: 3px;
+    font-size: 25px;
+    line-height: 25px;
 }
+.f1small2 {
+    font-family: 'Josefin Sans', sans-serif;
+    /*font-family: 'EB Garamond', serif;*/
+    color: #ffffcc;
+    letter-spacing: 3px;
+    font-size: 15px;
+}
+
+
 .f2 {
     /*font-family: 'Josefin Sans', sans-serif;*/
     font-family: 'EB Garamond', serif;
@@ -43,10 +60,36 @@
   font-size: 16px;
 
 }
+a.boxt:link {
+  color: #011291;
+}
+a.boxt:visited {
+  color: #011291;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffcc;
+}
+a:hover {
 
 
+}
 hr{
 
+}
+.box{
+  margin: auto;
+  width: 66%;
+  border-style: inset;
+  background-color: #a9d6b2;
+  padding: 10px;
+  font-family: 'EB Garamond', serif;
+
+}
+.boxtext{
+  color: #00001a;
+  font-size: 20px;
 }
 
 body {
