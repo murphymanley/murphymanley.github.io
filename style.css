@@ -13,6 +13,20 @@
   height: auto;
   width: 70%;
 }
+.imgSmall{
+  border: 1px solid;
+  border-color: #ffffcc;
+  border-radius: 5px;
+  height: auto;
+  width: 32%;
+}
+.imgMedium{
+  border: 1px solid;
+  border-color: #ffffcc;
+  border-radius: 5px;
+  height: auto;
+  width: 40%;
+}
 
 .f1 {
     font-family: 'Josefin Sans', sans-serif;
@@ -65,6 +79,12 @@ a.boxt:link {
 }
 a.boxt:visited {
   color: #011291;
+}
+
+.pImage{
+
+  width: 50%;
+  height: 50%;
 }
 
 a {
