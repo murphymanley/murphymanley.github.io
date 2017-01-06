@@ -27,6 +27,14 @@
   height: auto;
   width: 40%;
 }
+.imgModerate{
+  border: 1px solid;
+  border-color: #ffffcc;
+  border-radius: 5px;
+  height: auto;
+  width: 52%;
+}
+
 
 .f1 {
     font-family: 'Josefin Sans', sans-serif;
@@ -107,12 +115,28 @@ hr{
   font-family: 'EB Garamond', serif;
 
 }
+.boxSmall{
+  margin: auto;
+  width: 40%;
+  border-style: inset;
+  background-color: #a9d6b2;
+  padding: 10px;
+  font-family: 'EB Garamond', serif;
+
+}
 .boxtext{
   font-family: 'Cantarell';
   color: #00001a;
   font-size: 16px;
 }
+pre{
+  font-family: 'Cantarell';
+  color: #00001a;
+  font-size: 16px;
+  margin-left: 18%;
+}
 
 body {
   background-color: #00001a;
+  line-height: 1.5;
 }
