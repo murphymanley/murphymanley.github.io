@@ -66,6 +66,12 @@
     font-size: 13px;
 }
 
+.txt {
+  text-align: center;
+  color: #ffffcc;
+  font-family: 'EB Garamond', serif;
+
+}
 
 .f2 {
     /*font-family: 'Josefin Sans', sans-serif;*/
