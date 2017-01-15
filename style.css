@@ -109,9 +109,19 @@ a:hover {
 
 
 }
-hr{
-
+.donate{
+  border-style: outset;
+  border-width: thin;
+  border-radius: 13px;
+  border-color: #8c8028;
+  width: 175px;
+  height: 25px;
+  margin: auto;
+  background: linear-gradient(to bottom, #1e5799 0%,#1e5799 14%,#481fc4 62%,#7b9fe5 100%);
+  text-align: center;
+  font-family: 'Courgette', cursive;
 }
+
 .box{
   margin: auto;
   width: 66%;
