@@ -20,6 +20,14 @@
   height: auto;
   width: 32%;
 }
+.imgTiny{
+  border: 1px solid;
+  border-color: #ffffcc;
+  border-radius: 5px;
+  height: auto;
+  width: 16%;
+  align-content: center;
+}
 .imgMedium{
   border: 1px solid;
   border-color: #ffffcc;
